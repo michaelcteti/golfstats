@@ -4,9 +4,7 @@ Based off of my excel spreadsheet for calculating golf statistics that drive pra
 =========
 Inputs
 * Course Data
-** Slope, Rating, Hole-by-Hole Par and Yardage
 * Round Data
-** Hole-by-Hole SCORE, FIR, GIR, DRIVEINPLAY, PUTTS, BUNKERS, PENALTIES, COMMENTS
 * Goals
 
 Outputs
